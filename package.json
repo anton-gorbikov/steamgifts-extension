@@ -1,0 +1,23 @@
+{
+  "name": "steamgifts-extension",
+  "version": "1.0.0",
+  "description": "tampermonkey script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anton-gorbikov/steamgifts-extension.git"
+  },
+  "keywords": [
+    "tampermonkey",
+    "steamgifts"
+  ],
+  "author": "Anton Gorbikov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anton-gorbikov/steamgifts-extension/issues"
+  },
+  "homepage": "https://github.com/anton-gorbikov/steamgifts-extension#readme"
+}
